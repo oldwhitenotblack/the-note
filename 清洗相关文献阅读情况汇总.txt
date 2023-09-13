@@ -1,0 +1,24 @@
+FPVA清洗：
+[1]A Capacity-Aware Wash Optimization for Contamination Removal in Programmable Microfluidic Biochip Devices;2019;[C]2019 32nd International Conference on VLSI Design and 2019 18th International Conference on Embedded Systems
+[2]Block-Flushing: A Block-based Washing Algorithm for Programmable Microfluidic Devices;2019;[C]Design, Automation and Test in Europe
+[3]Design Optimization for Programmable Microfluidic Devices Integrating Contamination Removal and Capacity-Wastage-Aware Washing;2020;[J]IETE Journal of Research//是[1]的期刊版本
+[4]Contamination-Aware Synthesis for Programmable Microfluidic Devices;2022;[J]IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems//是[2]的期刊版本，但内容新增了很多
+[5]Mixer-based Washing Methods for Programmable Microfluidic Devices;2022;[J]IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences
+
+流式清洗：
+[1]Wash Optimization for Cross-Contamination Removal in Flow-Based Microfluidic Biochips;2014;[C]2014 19th Asia and South Pacific Design Automation Conference
+[2]Wash Optimization and Analysis for Cross-Contamination Removal Under Physical Constraints in Flow-Based Microfluidic Biochips;2016;[J]IEEE Transactions on Computer-Aided Design of Integrated//是[1]的期刊版本
+[3]Physical Synthesis of Flow-Based Microfluidic Biochips Considering Distributed Channel Storage;2019;[C]Design, Automation and Test in Europe
+[4]Computer-aided Design Techniques for Flow-based Microfluidic Lab-on-a-chip Systems;2021;[J]ACM Computing Surveys
+[5]Flow-Based Microfluidic Biochips with Distributed Channel Storage: Synthesis,Physical Design, and Wash Optimization;2021;[J]IEEE Transactions on Computers//是[3]的期刊版本
+
+数字清洗：
+[1]A Contamination Aware Droplet Routing Algorithm for Digital Microfluidic Biochips;2009;[C]2009 IEEE/ACM International Conference on Computer-Aided Design-Digest of Technical Papers
+[2]Cross-Contamination Avoidance for Droplet Routing in Digital Microfluidic Biochips;2009;[C]Design, Automation and Test in Europe Conference
+[3]Synchronization of Washing Operations with Droplet Routing for Cross-Contamination Avoidance in Digital Microfluidic Biochips;2010;[C]47th Design Automation Conference
+[4]A Contamination Aware Droplet Routing Algorithm for Digital Microfluidic Biochips;2010;[J]IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems//是[1]的期刊版本
+[5]Cross-Contamination Avoidance for Droplet Routing in Digital Microfluidic Biochips;2012;[J]IEEE Transactions On Computer-aided Design Of Integrated Circuits And Systems//是[2]的期刊版本
+[6]Integrated Functional and Washing Routing Optimization for Cross-Contamination Removal in Digital Microfluidic Biochips;2015;[J]IEEE Transactions On Computer-aided Design Of Integrated Circuits And Systems
+[7]A Low-Cost Fluid-Level Synthesis for Droplet-Based Microfluidic Biochips Integrating Design Convergence, Contamination Avoidance, and Washing;2018;[J]Design Automation for Embedded Systems
+[8]Fluid-Level Synthesis Unifying Reliability, Contamination Avoidance, and Capacity-Wastage-Aware Washing for Droplet Based Microfluidic Biochips;2018;[J]IET Computers and Digital Techniques//与[8]部分内容重叠，但侧重点不同
+[9]Unified Contamination-Aware Routing Method Considering Realistic Washing Capacity Constraint in Digital Microfluidic Biochips;2020;[J]IEEE Access
